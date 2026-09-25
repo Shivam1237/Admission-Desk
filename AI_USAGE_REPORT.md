@@ -2,7 +2,7 @@
 
 ## AI Tool Used
 
-OpenAI Codex.
+OpenAI and Claude.
 
 ## What I Asked AI to Do
 
